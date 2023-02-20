@@ -1,6 +1,6 @@
-# First Repo
+# Homework 4
 
-This is a test organization repo for my N215 class
+This is for Homework 4
 
 ## Purpose
 
