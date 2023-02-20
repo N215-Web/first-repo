@@ -7,9 +7,10 @@ This is a test organization repo for my N215 class
 This homework assignment will:
 
 * Teach you how to make your site responsive
-Use media queries
-Use percentages
-Start focusing on mobile
+
+* Use media queries
+* Use percentages
+* Start focusing on mobile
 
 ## Task
 
