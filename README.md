@@ -26,5 +26,6 @@ For this homework assignment, you will be making the home page from the Travel-f
 
 ## Homework 4/5 URL
 
-https://in-info-web4.informatics.iupui.edu/~adalucas/Homework-Four/
-https://in-info-web4.informatics.iupui.edu/~adalucas/Homework-Five/side-by-side-master/
+* https://in-info-web4.informatics.iupui.edu/~adalucas/Homework-Four/
+
+* https://in-info-web4.informatics.iupui.edu/~adalucas/Homework-Five/side-by-side-master/
