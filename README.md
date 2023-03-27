@@ -1,7 +1,5 @@
 # Homework  7
 
-This is for the Portfolio Assignment
-
 ## Purpose
 
 This homework assignment will:
